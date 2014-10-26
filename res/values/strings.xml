@@ -3,5 +3,10 @@
 
     <string name="app_name">Blog163</string>
     <string name="hello_world">Hello world!</string>
+    <string name="back">返 回</string>
+    <string name="add">添 加</string>
+    <string name="grid">图标</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="action_settings">Settings</string>
 
 </resources>
